@@ -1,5 +1,5 @@
 :root {
-  --primary-clr: #5a4ca1;
+  --primary-clr: rgb(76, 144, 161);
 }
 * {
   margin: 0;
